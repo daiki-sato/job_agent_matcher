@@ -1,0 +1,8 @@
+.env
+vendor/*
+node_modules/*
+.idea/
+teamdev.iml
+public/fonts/
+public/js/app.js
+public/mix-manifest.json
